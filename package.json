@@ -1,0 +1,25 @@
+{
+  "name": "freelance-abdel-el-zatker",
+  "version": "1.0.0",
+  "description": "Freelance projects for Abdel El Zatker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashtonfei/freelance-abdel-el-zatker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashtonfei/freelance-abdel-el-zatker/issues"
+  },
+  "homepage": "https://github.com/ashtonfei/freelance-abdel-el-zatker#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.20",
+    "clasp": "^1.0.0"
+  }
+}
